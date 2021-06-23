@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlantDemo</string>
+    <string name="statistics">统计</string>
+    <string name="notify">通知</string>
+    <string name="chart1">历史</string>
+    <string name="chart2">实时</string>
+</resources>
